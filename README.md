@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ielfran</h1>
-<h3 align="center">Computer Science and Software Engineering</h3>
+<h3 align="center">Computer Science + Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ielfran&label=Profile%20views&color=0e75b6&style=flat" alt="ielfran" /> </p>
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gagan rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gagan rai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gagan-rai-710527321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gagan rai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
